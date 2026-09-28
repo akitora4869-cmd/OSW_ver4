@@ -1,0 +1,23 @@
+game-duration-seconds: 1800
+chat-radius: 8.0
+nameplate-range: 15.0
+report-delay-seconds: 10
+meeting-seconds: 90
+knife-kill-cooldown-seconds: 30
+emp-radius: 30.0
+emp-seconds: 60
+backpack-max: 3
+handgun-magazine: 6
+stun-seconds: 3
+smoke-radius: 7.0
+smoke-seconds: 10
+wildlife-enabled: true
+
+mission-ii-points: 4
+will-expire-seconds: 180
+
+tracker-history-seconds: 30
+wildlife-interval-seconds: 180
+wildlife-duration-seconds: 60
+meeting-room-radius: 10.0
+meeting-choice-seconds: 10
